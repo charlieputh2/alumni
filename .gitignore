@@ -20,7 +20,6 @@ admin/backups/*.sql
 admin/email_config.php
 
 # IDE
-.vscode/
 .idea/
 
 # OS files
